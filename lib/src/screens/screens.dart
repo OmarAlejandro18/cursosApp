@@ -1,0 +1,12 @@
+export 'package:cursos/src/screens/contactanos_screen.dart';
+export 'package:cursos/src/screens/acerca_de_screen.dart';
+export 'package:cursos/src/screens/class_screen.dart';
+export 'package:cursos/src/screens/constancias_screen.dart';
+export 'package:cursos/src/screens/cursos_screen.dart';
+export 'package:cursos/src/screens/detalles_curso.dart';
+export 'package:cursos/src/screens/formulario_constancias_screen.dart';
+export 'package:cursos/src/screens/formulario_contrase_screen.dart';
+export 'package:cursos/src/screens/formulario_perfil_screen.dart';
+export 'package:cursos/src/screens/home_screen.dart';
+export 'package:cursos/src/screens/login_screen.dart';
+export 'package:cursos/src/screens/user_screen.dart';
